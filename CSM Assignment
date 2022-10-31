@@ -1,0 +1,9 @@
+Question 6
+	Q.1. Hydra
+	Q.2. jenny
+	Q.3. password123
+	Q.4. /var/www/html
+	Q.5. shell.php
+	Q.6. wir3
+	Q.7. python3 -c 'import pty; pty.spawn("bin/bash")'
+	Q.8. rootkit
